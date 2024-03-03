@@ -1,10 +1,9 @@
-import DummyComponent from "./components/dummycomponent";
+import React from "react";
 
 export default function Home() {
   return (
     <main>
-      <h1>test</h1>
-      <DummyComponent/>
+      <h1>Home Page</h1>
     </main>
   );
 }
